@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FusionCacheExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ccb5e121fe397378d3357c97c4b6060df0f3bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("FusionCacheExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FusionCacheExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
