@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FusionCacheExample", "FusionCacheExample\FusionCacheExample.csproj", "{A275EBC3-D21D-41E1-8E41-B8D3BC9D7EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service2", "Service2\Service2.csproj", "{990E527F-998B-4795-A405-88B9644C3603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheLayer", "CacheLayer\CacheLayer.csproj", "{D08225C2-7ED4-40A1-B091-6C23A145C13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A275EBC3-D21D-41E1-8E41-B8D3BC9D7EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A275EBC3-D21D-41E1-8E41-B8D3BC9D7EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A275EBC3-D21D-41E1-8E41-B8D3BC9D7EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A275EBC3-D21D-41E1-8E41-B8D3BC9D7EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{990E527F-998B-4795-A405-88B9644C3603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990E527F-998B-4795-A405-88B9644C3603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990E527F-998B-4795-A405-88B9644C3603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990E527F-998B-4795-A405-88B9644C3603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08225C2-7ED4-40A1-B091-6C23A145C13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08225C2-7ED4-40A1-B091-6C23A145C13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08225C2-7ED4-40A1-B091-6C23A145C13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08225C2-7ED4-40A1-B091-6C23A145C13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

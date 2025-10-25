@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "YV0PiUwssmQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Warda\\Desktop\\FusionCacheExample\\Service2\\Service2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Warda\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.0-preview.3.25171.5\\microsoft.extensions.caching.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0\\microsoft.extensions.caching.memory.9.0.0.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\10.0.0-preview.3.25172.1\\microsoft.extensions.caching.stackexchangeredis.10.0.0-preview.3.25172.1.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-preview.3.25171.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0-preview.3.25171.5\\microsoft.extensions.logging.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\microsoft.extensions.options\\10.0.0-preview.3.25171.5\\microsoft.extensions.options.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0-preview.3.25171.5\\microsoft.extensions.primitives.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\stackexchange.redis\\2.8.31\\stackexchange.redis.2.8.31.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0-preview.3.25171.5\\system.diagnostics.diagnosticsource.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\ziggycreatures.fusioncache\\2.2.0\\ziggycreatures.fusioncache.2.2.0.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\ziggycreatures.fusioncache.backplane.stackexchangeredis\\2.2.0\\ziggycreatures.fusioncache.backplane.stackexchangeredis.2.2.0.nupkg.sha512",
+    "C:\\Users\\Warda\\.nuget\\packages\\ziggycreatures.fusioncache.serialization.systemtextjson\\2.2.0\\ziggycreatures.fusioncache.serialization.systemtextjson.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

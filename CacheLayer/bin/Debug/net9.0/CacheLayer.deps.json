@@ -1,0 +1,282 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CacheLayer/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.StackExchangeRedis": "10.0.0-preview.3.25172.1",
+          "ZiggyCreatures.FusionCache": "2.2.0",
+          "ZiggyCreatures.FusionCache.Backplane.StackExchangeRedis": "2.2.0",
+          "ZiggyCreatures.FusionCache.Serialization.SystemTextJson": "2.2.0"
+        },
+        "runtime": {
+          "CacheLayer.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Caching.Abstractions/10.0.0-preview.3.25171.5": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "10.0.0-preview.3.25171.5"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Caching.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.17105"
+          }
+        }
+      },
+      "Microsoft.Extensions.Caching.Memory/9.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "10.0.0-preview.3.25171.5",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.0-preview.3.25171.5",
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.0-preview.3.25171.5",
+          "Microsoft.Extensions.Options": "10.0.0-preview.3.25171.5",
+          "Microsoft.Extensions.Primitives": "10.0.0-preview.3.25171.5"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Caching.Memory.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.52809"
+          }
+        }
+      },
+      "Microsoft.Extensions.Caching.StackExchangeRedis/10.0.0-preview.3.25172.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "10.0.0-preview.3.25171.5",
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.0-preview.3.25171.5",
+          "Microsoft.Extensions.Options": "10.0.0-preview.3.25171.5",
+          "StackExchange.Redis": "2.8.31"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.17201"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.0-preview.3.25171.5": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.17105"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/10.0.0-preview.3.25171.5": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.0-preview.3.25171.5",
+          "System.Diagnostics.DiagnosticSource": "10.0.0-preview.3.25171.5"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.17105"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/10.0.0-preview.3.25171.5": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.0-preview.3.25171.5",
+          "Microsoft.Extensions.Primitives": "10.0.0-preview.3.25171.5"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.17105"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/10.0.0-preview.3.25171.5": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.17105"
+          }
+        }
+      },
+      "Pipelines.Sockets.Unofficial/2.2.8": {
+        "dependencies": {
+          "System.IO.Pipelines": "5.0.1"
+        },
+        "runtime": {
+          "lib/net5.0/Pipelines.Sockets.Unofficial.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "2.2.8.1080"
+          }
+        }
+      },
+      "StackExchange.Redis/2.8.31": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.0-preview.3.25171.5",
+          "Pipelines.Sockets.Unofficial": "2.2.8"
+        },
+        "runtime": {
+          "lib/net8.0/StackExchange.Redis.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.8.31.52602"
+          }
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/10.0.0-preview.3.25171.5": {
+        "runtime": {
+          "lib/net9.0/System.Diagnostics.DiagnosticSource.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.17105"
+          }
+        }
+      },
+      "System.IO.Pipelines/5.0.1": {},
+      "System.Text.Json/8.0.5": {},
+      "ZiggyCreatures.FusionCache/2.2.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Memory": "9.0.0"
+        },
+        "runtime": {
+          "lib/net9.0/ZiggyCreatures.FusionCache.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "ZiggyCreatures.FusionCache.Backplane.StackExchangeRedis/2.2.0": {
+        "dependencies": {
+          "StackExchange.Redis": "2.8.31",
+          "ZiggyCreatures.FusionCache": "2.2.0"
+        },
+        "runtime": {
+          "lib/net9.0/ZiggyCreatures.FusionCache.Backplane.StackExchangeRedis.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "ZiggyCreatures.FusionCache.Serialization.SystemTextJson/2.2.0": {
+        "dependencies": {
+          "System.Text.Json": "8.0.5",
+          "ZiggyCreatures.FusionCache": "2.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ZiggyCreatures.FusionCache.Serialization.SystemTextJson.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CacheLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Caching.Abstractions/10.0.0-preview.3.25171.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oJFNHKEbW3heuX+yWWenXQl9iGu5yNwmnJMvq6uXHVe5/kem6ir/t/YnCWmKID4bqMBW+MABeQCGI6fSyHItQg==",
+      "path": "microsoft.extensions.caching.abstractions/10.0.0-preview.3.25171.5",
+      "hashPath": "microsoft.extensions.caching.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Caching.Memory/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zbnPX/JQ0pETRSUG9fNPBvpIq42Aufvs15gGYyNIMhCun9yhmWihz0WgsI7bSDPjxWTKBf8oX/zv6v2uZ3W9OQ==",
+      "path": "microsoft.extensions.caching.memory/9.0.0",
+      "hashPath": "microsoft.extensions.caching.memory.9.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Caching.StackExchangeRedis/10.0.0-preview.3.25172.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9LMG08vzG2r0/cvqFpWzLsv1PzNto/aalo0wVx7eBHIH460rJma4hQPPGuix9rKW1QDKufymkWcP1BBa46tCmg==",
+      "path": "microsoft.extensions.caching.stackexchangeredis/10.0.0-preview.3.25172.1",
+      "hashPath": "microsoft.extensions.caching.stackexchangeredis.10.0.0-preview.3.25172.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.0-preview.3.25171.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kYUb9+gyWtphwC5ZPApnhJ8kYLFfeMwt0qHgMchfagjCVFFuwp4iyn9tSYe/mDmlyMxfaZ8XmatJttmXxfQT5g==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/10.0.0-preview.3.25171.5",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/10.0.0-preview.3.25171.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RelfzqJYDT+QGnda61isCoab/Xq8HWAK0tawwyCYm7r2voGs9r9igkxeFo43lAnFztVdOdslB+zQmJh0pZcXuw==",
+      "path": "microsoft.extensions.logging.abstractions/10.0.0-preview.3.25171.5",
+      "hashPath": "microsoft.extensions.logging.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/10.0.0-preview.3.25171.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4UwRpSTCzTHSc5D1Os5gdtzJZTP2tdMRAfidJy23munK5PVm1uFBRUlyqu5n1bWPY8n1F6lee7AixJkbMP2DcA==",
+      "path": "microsoft.extensions.options/10.0.0-preview.3.25171.5",
+      "hashPath": "microsoft.extensions.options.10.0.0-preview.3.25171.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/10.0.0-preview.3.25171.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1U7p/PNQw7CGbbaAK1GTdVy/Fu85DC2h6DJHqvca12xtroVllU6KjboN590SxGxg2iz4sHM+joYpYSIYBrm0bQ==",
+      "path": "microsoft.extensions.primitives/10.0.0-preview.3.25171.5",
+      "hashPath": "microsoft.extensions.primitives.10.0.0-preview.3.25171.5.nupkg.sha512"
+    },
+    "Pipelines.Sockets.Unofficial/2.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zG2FApP5zxSx6OcdJQLbZDk2AVlN2BNQD6MorwIfV6gVj0RRxWPEp2LXAxqDGZqeNV1Zp0BNPcNaey/GXmTdvQ==",
+      "path": "pipelines.sockets.unofficial/2.2.8",
+      "hashPath": "pipelines.sockets.unofficial.2.2.8.nupkg.sha512"
+    },
+    "StackExchange.Redis/2.8.31": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RCHVQa9Zke8k0oBgJn1Yl6BuYy8i6kv+sdMObiH60nOwD6QvWAjxdDwOm+LO78E8WsGiPqgOuItkz98fPS6haQ==",
+      "path": "stackexchange.redis/2.8.31",
+      "hashPath": "stackexchange.redis.2.8.31.nupkg.sha512"
+    },
+    "System.Diagnostics.DiagnosticSource/10.0.0-preview.3.25171.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9L8NSNLkx41IYLSi+XuaKnr1m5XnpuSmxoy2ZEeGu7jKv1zox8CzwmF0j4DmTpMkuMXN64XJT3qsWMy7RtIBEg==",
+      "path": "system.diagnostics.diagnosticsource/10.0.0-preview.3.25171.5",
+      "hashPath": "system.diagnostics.diagnosticsource.10.0.0-preview.3.25171.5.nupkg.sha512"
+    },
+    "System.IO.Pipelines/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qEePWsaq9LoEEIqhbGe6D5J8c9IqQOUuTzzV6wn1POlfdLkJliZY3OlB0j0f17uMWlqZYjH7txj+2YbyrIA8Yg==",
+      "path": "system.io.pipelines/5.0.1",
+      "hashPath": "system.io.pipelines.5.0.1.nupkg.sha512"
+    },
+    "System.Text.Json/8.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0f1B50Ss7rqxXiaBJyzUu9bWFOO2/zSlifZ/UNMdiIpDYe4cY4LQQicP4nirK1OS31I43rn062UIJ1Q9bpmHpg==",
+      "path": "system.text.json/8.0.5",
+      "hashPath": "system.text.json.8.0.5.nupkg.sha512"
+    },
+    "ZiggyCreatures.FusionCache/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5Ku9YfyR98uj9tmgnCgyWbv7vySupd6iGDG4W07mfKpEMLITHjVO3avjZSMJNZXmCYOMqHRnbZ3xvBDziAUdoA==",
+      "path": "ziggycreatures.fusioncache/2.2.0",
+      "hashPath": "ziggycreatures.fusioncache.2.2.0.nupkg.sha512"
+    },
+    "ZiggyCreatures.FusionCache.Backplane.StackExchangeRedis/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PMnAXCZG5+VfRi9o0QupvSO307qntTDbc2t+4Oo112C/f2WrCPJn5F9SUtkmOiBXctXwojLN33GSTmdE5RkiRQ==",
+      "path": "ziggycreatures.fusioncache.backplane.stackexchangeredis/2.2.0",
+      "hashPath": "ziggycreatures.fusioncache.backplane.stackexchangeredis.2.2.0.nupkg.sha512"
+    },
+    "ZiggyCreatures.FusionCache.Serialization.SystemTextJson/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ApzsQ9OqZn8oYFRLTWhCXqtPT/lxBSenXogfkIRJ8OotJkBpGEZi11XJuPN+pw98AQDKdX9Cc2Siu4aLUFtqhA==",
+      "path": "ziggycreatures.fusioncache.serialization.systemtextjson/2.2.0",
+      "hashPath": "ziggycreatures.fusioncache.serialization.systemtextjson.2.2.0.nupkg.sha512"
+    }
+  }
+}

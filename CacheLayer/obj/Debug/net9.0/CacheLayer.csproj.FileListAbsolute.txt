@@ -1,0 +1,12 @@
+C:\Users\Warda\Desktop\FusionCacheExample\CacheLayer\bin\Debug\net9.0\CacheLayer.deps.json
+C:\Users\Warda\Desktop\FusionCacheExample\CacheLayer\bin\Debug\net9.0\CacheLayer.dll
+C:\Users\Warda\Desktop\FusionCacheExample\CacheLayer\bin\Debug\net9.0\CacheLayer.pdb
+C:\Users\Warda\Desktop\FusionCacheExample\CacheLayer\obj\Debug\net9.0\CacheLayer.csproj.AssemblyReference.cache
+C:\Users\Warda\Desktop\FusionCacheExample\CacheLayer\obj\Debug\net9.0\CacheLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Warda\Desktop\FusionCacheExample\CacheLayer\obj\Debug\net9.0\CacheLayer.AssemblyInfoInputs.cache
+C:\Users\Warda\Desktop\FusionCacheExample\CacheLayer\obj\Debug\net9.0\CacheLayer.AssemblyInfo.cs
+C:\Users\Warda\Desktop\FusionCacheExample\CacheLayer\obj\Debug\net9.0\CacheLayer.csproj.CoreCompileInputs.cache
+C:\Users\Warda\Desktop\FusionCacheExample\CacheLayer\obj\Debug\net9.0\CacheLayer.dll
+C:\Users\Warda\Desktop\FusionCacheExample\CacheLayer\obj\Debug\net9.0\refint\CacheLayer.dll
+C:\Users\Warda\Desktop\FusionCacheExample\CacheLayer\obj\Debug\net9.0\CacheLayer.pdb
+C:\Users\Warda\Desktop\FusionCacheExample\CacheLayer\obj\Debug\net9.0\ref\CacheLayer.dll
